@@ -1,1 +1,1 @@
-this is to learn github clip
+this is to learn github cli
